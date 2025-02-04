@@ -7,4 +7,4 @@ Este é um projeto desenvolvido com Streamlit que consome uma API GET para busca
 Acesse o projeto online: [Clique aqui](https://api-stremlit.streamlit.app)
 
 ### Captura de tela
-![Captura de tela](Capuradetela.png)
+![Captura de tela](capuradetela.png)
