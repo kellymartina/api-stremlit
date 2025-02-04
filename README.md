@@ -4,4 +4,7 @@ Este é um projeto desenvolvido com Streamlit que consome uma API GET para busca
 
 ## Como acessar
 
-Acesse o projeto online: <a href="https://api-stremlit.streamlit.app" target="_blank">Clique aqui</a>
+Acesse o projeto online: [Clique aqui](https://api-stremlit.streamlit.app)
+
+### Captura de tela
+![Captura de tela](Capuradetela.png)
